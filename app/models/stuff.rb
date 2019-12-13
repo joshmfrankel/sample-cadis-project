@@ -7,4 +7,8 @@ class Stuff
     puts "second"
     puts "again"
   end
+
+  def third_commit
+    puts "third commit"
+  end
 end
